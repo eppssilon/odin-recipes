@@ -1,2 +1,4 @@
 # odin-recipes
-My first TOP Project! Recipes HTML
+My first TOP Project!
+
+This here be my HTML Project for Recipes.
